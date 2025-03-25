@@ -3,7 +3,7 @@ I'm Nathan and I like to make cool things.
 
 💬 Take a look at my pinned repositories for things that I am really proud of, or browse about and find something that might peak your interest!
 
-* 📱[Agreed App (MAUI, Blazor)](https://play.google.com/store/apps/details?id=xyz.nford.agreedapp)
+* 🎮[s&box Party!](https://github.com/CplNathan/sbox_party/tree/master)
 * 🐱[SurePet2Google (Home App, Blazor Web Assembly/MVC App)](https://github.com/CplNathan/SurePet2Google-Public)
 * 🌿[Leaf2Google (Home App, MVC Web App)](https://github.com/CplNathan/Leaf2Google-Public)
 * ඞ [Among Us Unreal Engine Clone (code only)](https://github.com/CplNathan/Amogus-Imposter-Game)
